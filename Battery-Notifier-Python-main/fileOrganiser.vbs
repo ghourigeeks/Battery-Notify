@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "C:\Users\dell\Downloads\Battery-Notifier-Python-main\Battery-Notifier-Python-main\fileOrganiser.bat", 0 , True
